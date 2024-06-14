@@ -7,3 +7,6 @@ GitLab is a repository hosting manager tool that is developed by GitLab Inc and 
 
 # GitHub
 GitHub is a repository hosting service tool that features collaboration and access control. It is a platform for programmers to fix bugs together and host open-source projects. GitHub is designed for the developers and to help them track their changes into a project through the repository. 
+
+
+![pod.yaml](image.png)
